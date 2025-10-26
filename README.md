@@ -14,5 +14,3 @@ Aplicación móvil Flutter para **pedidos a domicilio** con **menú dinámico**,
 - Notificaciones push de cambios de estado
 - Favoritos e historial de pedidos
 - Promociones visibles en el menú
-
-## 📂 Estructura sugerida
